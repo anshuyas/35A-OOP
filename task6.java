@@ -1,3 +1,4 @@
+package Tasks;
 public class task6 {
     /* 6. WAP that prints the following output:
 

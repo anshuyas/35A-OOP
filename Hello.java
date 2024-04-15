@@ -1,4 +1,4 @@
-package Week1;
+package Tasks;
 
 public class Hello {
     public static void main(String[] args) {

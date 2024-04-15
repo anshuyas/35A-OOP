@@ -1,3 +1,5 @@
+package Tasks;
+
 public class task5 {
     /*5. WAP prints the following pattern:
 
@@ -12,3 +14,4 @@ public class task5 {
     System.out.println("*********\n*********\n*********\n*********");
  }
 }
+
